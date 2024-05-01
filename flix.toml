@@ -1,0 +1,6 @@
+[package]
+name        = "random"
+description = "A regioned random library for Flix"
+version     = "1.0.0"
+flix        = "0.46.0"
+authors     = ["Jonathan Lindegaard Starup <jls@cs.au.dk>"]
